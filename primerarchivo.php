@@ -1,3 +1,3 @@
 <?php
-echo "Hola querido DAW";
+echo "Hola buen DAW";
 ?>
